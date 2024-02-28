@@ -1,0 +1,8 @@
+{
+  "basePackage": "co.com.beca.microservice.resolveEnigmaApi",
+  "configPackage": "co.com.beca.microservice.resolveEnigmaApi.config",
+  "apiPackage": "co.com.beca.microservice.resolveEnigmaApi.api",
+  "modelPackage": "co.com.beca.microservice.resolveEnigmaApi.model",
+  "groupId": "co.com.beca.service.resolveEnigmaApi",
+  "artifactId": "resolve-enigma-api"
+}
